@@ -19,5 +19,5 @@ app.listen(process.env.PORT || "3000", () => {
 
 // http://localhost:3000/api/generate-pdf
 // http://localhost:3000/api/getlist
-//
-//
+// http://localhost:3000/api/updateItem
+//http://localhost:3000/api/insertItem
